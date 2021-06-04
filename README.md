@@ -1,5 +1,5 @@
 # RestaurantRatings
-#Topic: File I/O
+Topic: File I/O
 
 #(1) Write a section of code to process a set of data from a file. The data represents restaurant ratings. Read the data, and produce a report summarizing the #ratings.
 #Create your own copy of the input data on your machine, or on a classroom machine. It doesn’t matter where you put it, as long as you name it a41data.txt. The #data is in a .txt file in the assignment in Canvas. You can open it using Canvas and then copy and paste or “save as.” Use any text editor, but not something #like Word unless you’re careful to save in .txt format.
